@@ -1,0 +1,6 @@
+sceneSetups:
+- path: Assets/Palmov Island/Low Poly Atmospheric Locations Pack/Scenes/Location
+    wild west railway station.unity
+  isLoaded: 1
+  isActive: 1
+  isSubScene: 0

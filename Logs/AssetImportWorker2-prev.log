@@ -1,0 +1,487 @@
+Using pre-set license
+Built from '6000.0/release' branch; Version is '6000.0.35f1 (9a3bc604008a) revision 10107846'; Using compiler version '193933523'; Build Type 'Release'
+OS: 'Windows 11  (10.0.26100) 64bit Core' Language: 'en' Physical Memory: 14140 MB
+BatchMode: 1, IsHumanControllingUs: 0, StartBugReporterOnCrash: 0, Is64bit: 1, IsPro: 1
+
+COMMAND LINE ARGUMENTS:
+C:\Program Files\Unity\Hub\Editor\6000.0.35f1\Editor\Unity.exe
+-adb2
+-batchMode
+-noUpm
+-name
+AssetImportWorker2
+-projectPath
+C:/Users/dalen/ConuHacksGunGameDisney
+-logFile
+Logs/AssetImportWorker2.log
+-srvPort
+54561
+-job-worker-count
+5
+-background-job-worker-count
+8
+-gc-helper-count
+1
+Successfully changed project path to: C:/Users/dalen/ConuHacksGunGameDisney
+C:/Users/dalen/ConuHacksGunGameDisney
+[UnityMemory] Configuration Parameters - Can be set up in boot.config
+    "memorysetup-bucket-allocator-granularity=16"
+    "memorysetup-bucket-allocator-bucket-count=8"
+    "memorysetup-bucket-allocator-block-size=33554432"
+    "memorysetup-bucket-allocator-block-count=8"
+    "memorysetup-main-allocator-block-size=16777216"
+    "memorysetup-thread-allocator-block-size=16777216"
+    "memorysetup-gfx-main-allocator-block-size=16777216"
+    "memorysetup-gfx-thread-allocator-block-size=16777216"
+    "memorysetup-cache-allocator-block-size=4194304"
+    "memorysetup-typetree-allocator-block-size=2097152"
+    "memorysetup-profiler-bucket-allocator-granularity=16"
+    "memorysetup-profiler-bucket-allocator-bucket-count=8"
+    "memorysetup-profiler-bucket-allocator-block-size=33554432"
+    "memorysetup-profiler-bucket-allocator-block-count=8"
+    "memorysetup-profiler-allocator-block-size=16777216"
+    "memorysetup-profiler-editor-allocator-block-size=1048576"
+    "memorysetup-temp-allocator-size-main=16777216"
+    "memorysetup-job-temp-allocator-block-size=2097152"
+    "memorysetup-job-temp-allocator-block-size-background=1048576"
+    "memorysetup-job-temp-allocator-reduction-small-platforms=262144"
+    "memorysetup-allocator-temp-initial-block-size-main=262144"
+    "memorysetup-allocator-temp-initial-block-size-worker=262144"
+    "memorysetup-temp-allocator-size-background-worker=32768"
+    "memorysetup-temp-allocator-size-job-worker=262144"
+    "memorysetup-temp-allocator-size-preload-manager=33554432"
+    "memorysetup-temp-allocator-size-nav-mesh-worker=65536"
+    "memorysetup-temp-allocator-size-audio-worker=65536"
+    "memorysetup-temp-allocator-size-cloud-worker=32768"
+    "memorysetup-temp-allocator-size-gi-baking-worker=262144"
+    "memorysetup-temp-allocator-size-gi-baking-worker=262144"
+    "memorysetup-temp-allocator-size-gi-baking-worker=262144"
+    "memorysetup-temp-allocator-size-gi-baking-worker=262144"
+    "memorysetup-temp-allocator-size-gi-baking-worker=262144"
+    "memorysetup-temp-allocator-size-gfx=262144"
+Player connection [13468]  Target information:
+
+Player connection [13468]  * "[IP] 172.30.94.152 [Port] 0 [Flags] 2 [Guid] 2836079014 [EditorId] 2836079014 [Version] 1048832 [Id] WindowsEditor(7,dalena) [Debug] 1 [PackageName] WindowsEditor [ProjectName] Editor" 
+
+Player connection [13468] Host joined multi-casting on [225.0.0.222:54997]...
+Player connection [13468] Host joined alternative multi-casting on [225.0.0.222:34997]...
+JobSystem: Creating JobQueue using job-worker-count value 5
+Input System module state changed to: Initialized.
+[Physics::Module] Initialized fallback backend.
+[Physics::Module] Id: 0xdecafbad
+Library Redirect Path: Library/
+[Physics::Module] Selected backend.
+[Physics::Module] Name: PhysX
+[Physics::Module] Id: 0xf2b8ea05
+[Physics::Module] SDK Version: 4.1.2
+[Physics::Module] Integration Version: 1.0.0
+[Physics::Module] Threading Mode: Multi-Threaded
+Refreshing native plugins compatible for Editor in 404.83 ms, found 4 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Initialize engine version: 6000.0.35f1 (9a3bc604008a)
+[Subsystems] Discovering subsystems at path C:/Program Files/Unity/Hub/Editor/6000.0.35f1/Editor/Data/Resources/UnitySubsystems
+[Subsystems] Discovering subsystems at path C:/Users/dalen/ConuHacksGunGameDisney/Assets
+GfxDevice: creating device client; kGfxThreadingModeNonThreaded
+Direct3D:
+    Version:  Direct3D 11.0 [level 11.1]
+    Renderer: AMD Radeon 760M Graphics (ID=0x1900)
+    Vendor:   ATI
+    VRAM:     7070 MB
+    Driver:   31.0.22060.6004
+Initialize mono
+Mono path[0] = 'C:/Program Files/Unity/Hub/Editor/6000.0.35f1/Editor/Data/Managed'
+Mono path[1] = 'C:/Program Files/Unity/Hub/Editor/6000.0.35f1/Editor/Data/MonoBleedingEdge/lib/mono/unityjit-win32'
+Mono config path = 'C:/Program Files/Unity/Hub/Editor/6000.0.35f1/Editor/Data/MonoBleedingEdge/etc'
+Using monoOptions --debugger-agent=transport=dt_socket,embedding=1,server=y,suspend=n,address=127.0.0.1:56944
+Begin MonoManager ReloadAssembly
+Registering precompiled unity dll's ...
+Register platform support module: C:/Program Files/Unity/Hub/Editor/6000.0.35f1/Editor/Data/PlaybackEngines/WebGLSupport/UnityEditor.WebGL.Extensions.dll
+Register platform support module: C:/Program Files/Unity/Hub/Editor/6000.0.35f1/Editor/Data/PlaybackEngines/WindowsStandaloneSupport/UnityEditor.WindowsStandalone.Extensions.dll
+Registered in 0.003196 seconds.
+- Loaded All Assemblies, in  0.982 seconds
+Native extension for WindowsStandalone target not found
+Native extension for WebGL target not found
+Mono: successfully reloaded assembly
+- Finished resetting the current domain, in  0.281 seconds
+Domain Reload Profiling: 1261ms
+	BeginReloadAssembly (124ms)
+		ExecutionOrderSort (0ms)
+		DisableScriptedObjects (0ms)
+		BackupInstance (0ms)
+		ReleaseScriptingObjects (0ms)
+		CreateAndSetChildDomain (1ms)
+	RebuildCommonClasses (29ms)
+	RebuildNativeTypeToScriptingClass (9ms)
+	initialDomainReloadingComplete (38ms)
+	LoadAllAssembliesAndSetupDomain (779ms)
+		LoadAssemblies (124ms)
+		RebuildTransferFunctionScriptingTraits (0ms)
+		AnalyzeDomain (776ms)
+			TypeCache.Refresh (774ms)
+				TypeCache.ScanAssembly (762ms)
+			BuildScriptInfoCaches (0ms)
+			ResolveRequiredComponents (1ms)
+	FinalizeReload (281ms)
+		ReleaseScriptCaches (0ms)
+		RebuildScriptCaches (0ms)
+		SetupLoadedEditorAssemblies (243ms)
+			LogAssemblyErrors (0ms)
+			InitializePlatformSupportModulesInManaged (21ms)
+			SetLoadedEditorAssemblies (3ms)
+			BeforeProcessingInitializeOnLoad (36ms)
+			ProcessInitializeOnLoadAttributes (131ms)
+			ProcessInitializeOnLoadMethodAttributes (51ms)
+			AfterProcessingInitializeOnLoad (0ms)
+			EditorAssembliesLoaded (0ms)
+		ExecutionOrderSort2 (0ms)
+		AwakeInstancesAfterBackupRestoration (0ms)
+Assembly reference Packages/com.unity.cinemachine/Editor/Samples/ExposeHDRPInternals/HDRP-Editor-ref.asmref has no target assembly definition
+========================================================================
+Worker process is ready to serve import requests
+Import Worker Mode flag is 0x00
+Assembly reference Packages/com.unity.cinemachine/Editor/Samples/ExposeHDRPInternals/HDRP-Editor-ref.asmref has no target assembly definition
+Assembly reference Packages/com.unity.cinemachine/Editor/Samples/ExposeHDRPInternals/HDRP-Editor-ref.asmref has no target assembly definition
+Begin MonoManager ReloadAssembly
+Symbol file LoadedFromMemory is not a mono symbol file
+- Loaded All Assemblies, in  0.922 seconds
+Assembly reference Packages/com.unity.cinemachine/Editor/Samples/ExposeHDRPInternals/HDRP-Editor-ref.asmref has no target assembly definition
+'Packages/com.unity.cinemachine/Editor/Obsolete/CinemachineVirtualCameraBaseEditor.cs' contains partial class of Unity.Object, exactly 1 of the partial classes needs to be in a file with the same filename. This is to know the one that can be referenced from ie. GameObjects
+'Packages/com.unity.cinemachine/Editor/Editors/CinemachineVirtualCameraBaseEditor.cs' contains partial class of Unity.Object, exactly 1 of the partial classes needs to be in a file with the same filename. This is to know the one that can be referenced from ie. GameObjects
+Refreshing native plugins compatible for Editor in 1.91 ms, found 4 plugins.
+Native extension for WindowsStandalone target not found
+Native extension for WebGL target not found
+Assembly reference Packages/com.unity.cinemachine/Editor/Samples/ExposeHDRPInternals/HDRP-Editor-ref.asmref has no target assembly definition
+Package Manager log level set to [2]
+[Package Manager] Failed to launch server process. Reason: Unity was launched with the -noUpm command-line argument
+[Package Manager] Unable to send message (not connected to server process).
+[Package Manager] Cannot connect to Unity Package Manager local server
+Refreshing native plugins compatible for Editor in 2.73 ms, found 4 plugins.
+Mono: successfully reloaded assembly
+- Finished resetting the current domain, in  1.559 seconds
+Domain Reload Profiling: 2476ms
+	BeginReloadAssembly (156ms)
+		ExecutionOrderSort (0ms)
+		DisableScriptedObjects (5ms)
+		BackupInstance (0ms)
+		ReleaseScriptingObjects (0ms)
+		CreateAndSetChildDomain (37ms)
+	RebuildCommonClasses (31ms)
+	RebuildNativeTypeToScriptingClass (11ms)
+	initialDomainReloadingComplete (38ms)
+	LoadAllAssembliesAndSetupDomain (681ms)
+		LoadAssemblies (474ms)
+		RebuildTransferFunctionScriptingTraits (0ms)
+		AnalyzeDomain (293ms)
+			TypeCache.Refresh (210ms)
+				TypeCache.ScanAssembly (188ms)
+			BuildScriptInfoCaches (68ms)
+			ResolveRequiredComponents (11ms)
+	FinalizeReload (1559ms)
+		ReleaseScriptCaches (0ms)
+		RebuildScriptCaches (0ms)
+		SetupLoadedEditorAssemblies (729ms)
+			LogAssemblyErrors (0ms)
+			InitializePlatformSupportModulesInManaged (3ms)
+			SetLoadedEditorAssemblies (5ms)
+			BeforeProcessingInitializeOnLoad (104ms)
+			ProcessInitializeOnLoadAttributes (503ms)
+			ProcessInitializeOnLoadMethodAttributes (109ms)
+			AfterProcessingInitializeOnLoad (4ms)
+			EditorAssembliesLoaded (0ms)
+		ExecutionOrderSort2 (0ms)
+		AwakeInstancesAfterBackupRestoration (5ms)
+Launched and connected shader compiler UnityShaderCompiler.exe after 0.02 seconds
+Refreshing native plugins compatible for Editor in 1.93 ms, found 4 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Unloading 217 Unused Serialized files (Serialized files now loaded: 0)
+Unloading 7654 unused Assets / (7.2 MB). Loaded Objects now: 8322.
+Memory consumption went from 183.3 MB to 176.1 MB.
+Total: 10.671000 ms (FindLiveObjects: 0.903200 ms CreateObjectMapping: 0.841700 ms MarkObjects: 5.258700 ms  DeleteObjects: 3.666500 ms)
+
+========================================================================
+Received Import Request.
+  Time since last request: 4488905.879299 seconds.
+  path: Assets/Little_GhostLP(FREE)/Material/Floor.mat
+  artifactKey: Guid(55a725e838814ea44b1bd9d5a940b21b) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Little_GhostLP(FREE)/Material/Floor.mat using Guid(55a725e838814ea44b1bd9d5a940b21b) Importer(815301076,1909f56bfc062723c751e8b465ee728b) (PreviewImporter) -> (artifact id: '4a8afe238e3e38b318b3ca2244f1eb28') in 0.4923437 seconds
+Number of updated asset objects reloaded before import = 0Number of asset objects unloaded after import = 4
+
+========================================================================
+Received Import Request.
+  Time since last request: 14.501817 seconds.
+  path: Assets/Little_GhostLP(FREE)/Texture/Checker yellow black.png
+  artifactKey: Guid(eb1a62245a4aa754fa1601381f3a17f4) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Little_GhostLP(FREE)/Texture/Checker yellow black.png using Guid(eb1a62245a4aa754fa1601381f3a17f4) Importer(815301076,1909f56bfc062723c751e8b465ee728b) (PreviewImporter) -> (artifact id: '1571b5f7adbffec1494a795485c8302b') in 0.023205 seconds
+Number of updated asset objects reloaded before import = 0Number of asset objects unloaded after import = 2
+
+========================================================================
+Received Import Request.
+  Time since last request: 11.662380 seconds.
+  path: Assets/Little_GhostLP(FREE)/Material
+  artifactKey: Guid(466352f609ce2cf429f18fd07b8b60e8) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Little_GhostLP(FREE)/Material using Guid(466352f609ce2cf429f18fd07b8b60e8) Importer(815301076,1909f56bfc062723c751e8b465ee728b) (PreviewImporter) -> (artifact id: '9e2df1915ba35925da6a777b1b2d0226') in 0.0008517 seconds
+Number of updated asset objects reloaded before import = 0Number of asset objects unloaded after import = 0
+
+========================================================================
+Received Import Request.
+  Time since last request: 4.157669 seconds.
+  path: Assets/Little_GhostLP(FREE)/Material/Hat
+  artifactKey: Guid(1ea2e19ac7d4a1c40af78fdea70f9f29) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Little_GhostLP(FREE)/Material/Hat using Guid(1ea2e19ac7d4a1c40af78fdea70f9f29) Importer(815301076,1909f56bfc062723c751e8b465ee728b) (PreviewImporter) -> (artifact id: '7a929a3ebd4bfff8caf5908186acd376') in 0.001956 seconds
+Number of updated asset objects reloaded before import = 0Number of asset objects unloaded after import = 0
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.077040 seconds.
+  path: Assets/Little_GhostLP(FREE)/Material/Hat/Hat 2.mat
+  artifactKey: Guid(acf07b3a58dc591409dbe168233c2e0c) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Little_GhostLP(FREE)/Material/Hat/Hat 2.mat using Guid(acf07b3a58dc591409dbe168233c2e0c) Importer(815301076,1909f56bfc062723c751e8b465ee728b) (PreviewImporter) -> (artifact id: '7901f4378dd47990ccebd6836b17f0f4') in 0.0120401 seconds
+Number of updated asset objects reloaded before import = 0Number of asset objects unloaded after import = 2
+
+========================================================================
+Received Import Request.
+  Time since last request: 4.057622 seconds.
+  path: Assets/Little_GhostLP(FREE)/Texture/Hat/Witch Hat 3.png
+  artifactKey: Guid(fc5da31fdde959845a74203a4cea9e1d) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Little_GhostLP(FREE)/Texture/Hat/Witch Hat 3.png using Guid(fc5da31fdde959845a74203a4cea9e1d) Importer(815301076,1909f56bfc062723c751e8b465ee728b) (PreviewImporter) -> (artifact id: '38d89eee8dd2bfe6b40dec1c4db4805f') in 0.0174344 seconds
+Number of updated asset objects reloaded before import = 0Number of asset objects unloaded after import = 2
+
+========================================================================
+Received Import Request.
+  Time since last request: 4.788936 seconds.
+  path: Assets/Little_GhostLP(FREE)/Texture/Hat/Witch Hat 2.png
+  artifactKey: Guid(eece8cabec0afe34b838516567e4d786) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Little_GhostLP(FREE)/Texture/Hat/Witch Hat 2.png using Guid(eece8cabec0afe34b838516567e4d786) Importer(815301076,1909f56bfc062723c751e8b465ee728b) (PreviewImporter) -> (artifact id: '6b910326722cac03dc5f30bd6a8f5d18') in 0.0182399 seconds
+Number of updated asset objects reloaded before import = 0Number of asset objects unloaded after import = 2
+
+========================================================================
+Received Import Request.
+  Time since last request: 3.622216 seconds.
+  path: Assets/Little_GhostLP(FREE)/Material/Ghost Kid
+  artifactKey: Guid(f803bae05d9138245b1c306a878011f4) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Little_GhostLP(FREE)/Material/Ghost Kid using Guid(f803bae05d9138245b1c306a878011f4) Importer(815301076,1909f56bfc062723c751e8b465ee728b) (PreviewImporter) -> (artifact id: '4a92ba724e25d08317bd4953f89edee0') in 0.0013105 seconds
+Number of updated asset objects reloaded before import = 0Number of asset objects unloaded after import = 0
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.015953 seconds.
+  path: Assets/Little_GhostLP(FREE)/Material/Ghost Kid/Blue 1.mat
+  artifactKey: Guid(31671b9a7e5932446827df075c9ae79d) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Little_GhostLP(FREE)/Material/Ghost Kid/Blue 1.mat using Guid(31671b9a7e5932446827df075c9ae79d) Importer(815301076,1909f56bfc062723c751e8b465ee728b) (PreviewImporter) -> (artifact id: 'b7f843b45974dbf88a5d69557c529c7b') in 0.0127881 seconds
+Number of updated asset objects reloaded before import = 0Number of asset objects unloaded after import = 2
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000028 seconds.
+  path: Assets/Little_GhostLP(FREE)/Material/Ghost Kid/Ghost Kid Skin01.mat
+  artifactKey: Guid(3200bcc81d4868f49bd0afca6f50701f) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Little_GhostLP(FREE)/Material/Ghost Kid/Ghost Kid Skin01.mat using Guid(3200bcc81d4868f49bd0afca6f50701f) Importer(815301076,1909f56bfc062723c751e8b465ee728b) (PreviewImporter) -> (artifact id: '4a3afa0f1d8ca3b268736fbbaa7a9700') in 0.0124459 seconds
+Number of updated asset objects reloaded before import = 0Number of asset objects unloaded after import = 2
+
+========================================================================
+Received Import Request.
+  Time since last request: 4.919445 seconds.
+  path: Assets/Little_GhostLP(FREE)/Texture/Ghost Kid/New Skins/S1/Kid Ghost_blinn1_BaseColor.png
+  artifactKey: Guid(1461a2e18f7bfc647a474a0524a83180) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Little_GhostLP(FREE)/Texture/Ghost Kid/New Skins/S1/Kid Ghost_blinn1_BaseColor.png using Guid(1461a2e18f7bfc647a474a0524a83180) Importer(815301076,1909f56bfc062723c751e8b465ee728b) (PreviewImporter) -> (artifact id: 'e043d5697642fc8ddca11225e8a67f3a') in 0.023878 seconds
+Number of updated asset objects reloaded before import = 0Number of asset objects unloaded after import = 2
+
+========================================================================
+Received Import Request.
+  Time since last request: 3.637719 seconds.
+  path: Assets/Little_GhostLP(FREE)/Texture/Ghost Kid/New Skins/S2/Kid Ghost_blinn1_BaseColor.png
+  artifactKey: Guid(d25a405999b72df47a9d5530491985c4) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Little_GhostLP(FREE)/Texture/Ghost Kid/New Skins/S2/Kid Ghost_blinn1_BaseColor.png using Guid(d25a405999b72df47a9d5530491985c4) Importer(815301076,1909f56bfc062723c751e8b465ee728b) (PreviewImporter) -> (artifact id: '3e851cc9beeed854c157c802b8f65f3c') in 0.0179456 seconds
+Number of updated asset objects reloaded before import = 0Number of asset objects unloaded after import = 2
+
+========================================================================
+Received Import Request.
+  Time since last request: 3.639031 seconds.
+  path: Assets/Little_GhostLP(FREE)/Texture/Ghost Kid/New Skins/S3/Kid Ghost_blinn1_BaseColor.png
+  artifactKey: Guid(90aceb81fc167d1479cab8dbc15fae44) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Little_GhostLP(FREE)/Texture/Ghost Kid/New Skins/S3/Kid Ghost_blinn1_BaseColor.png using Guid(90aceb81fc167d1479cab8dbc15fae44) Importer(815301076,1909f56bfc062723c751e8b465ee728b) (PreviewImporter) -> (artifact id: '9c0c44191986cbbade46f1905c10a323') in 0.0175914 seconds
+Number of updated asset objects reloaded before import = 0Number of asset objects unloaded after import = 2
+
+========================================================================
+Received Import Request.
+  Time since last request: 1.806177 seconds.
+  path: Assets/Little_GhostLP(FREE)/Material/Ghost Kid/Blue 1.mat
+  artifactKey: Guid(31671b9a7e5932446827df075c9ae79d) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Little_GhostLP(FREE)/Material/Ghost Kid/Blue 1.mat using Guid(31671b9a7e5932446827df075c9ae79d) Importer(815301076,1909f56bfc062723c751e8b465ee728b) (PreviewImporter) -> (artifact id: '03c4de338f448b7d556f39bc0c68c1ee') in 0.023483 seconds
+Number of updated asset objects reloaded before import = 0Number of asset objects unloaded after import = 2
+
+========================================================================
+Received Import Request.
+  Time since last request: 1.978262 seconds.
+  path: Assets/Little_GhostLP(FREE)/Texture/Ghost Kid/Ghost Kid Normal.png
+  artifactKey: Guid(94913b13d1da1934b8fd1a0de5b3b91b) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Little_GhostLP(FREE)/Texture/Ghost Kid/Ghost Kid Normal.png using Guid(94913b13d1da1934b8fd1a0de5b3b91b) Importer(815301076,1909f56bfc062723c751e8b465ee728b) (PreviewImporter) -> (artifact id: '28d61b3e08b3504e8ad8b81b138845c3') in 0.0189986 seconds
+Number of updated asset objects reloaded before import = 0Number of asset objects unloaded after import = 2
+
+========================================================================
+Received Import Request.
+  Time since last request: 3.639067 seconds.
+  path: Assets/Little_GhostLP(FREE)/Texture/Ghost Kid/Ghost Kid Blooded1.png
+  artifactKey: Guid(362e38ff592561145b66565074f73fd0) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Little_GhostLP(FREE)/Texture/Ghost Kid/Ghost Kid Blooded1.png using Guid(362e38ff592561145b66565074f73fd0) Importer(815301076,1909f56bfc062723c751e8b465ee728b) (PreviewImporter) -> (artifact id: 'bc51720bf8fec7dccbb532f5ecf1eca7') in 0.0223605 seconds
+Number of updated asset objects reloaded before import = 0Number of asset objects unloaded after import = 2
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.661277 seconds.
+  path: Assets/Little_GhostLP(FREE)/Material/Ghost Kid/Ghost Kid Skin01.mat
+  artifactKey: Guid(3200bcc81d4868f49bd0afca6f50701f) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Little_GhostLP(FREE)/Material/Ghost Kid/Ghost Kid Skin01.mat using Guid(3200bcc81d4868f49bd0afca6f50701f) Importer(815301076,1909f56bfc062723c751e8b465ee728b) (PreviewImporter) -> (artifact id: '98c1ab31bb70db3e14e4bd2d8e0970c5') in 0.0198769 seconds
+Number of updated asset objects reloaded before import = 0Number of asset objects unloaded after import = 2
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.729156 seconds.
+  path: Assets/Little_GhostLP(FREE)/Material/Floor.mat
+  artifactKey: Guid(55a725e838814ea44b1bd9d5a940b21b) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Little_GhostLP(FREE)/Material/Floor.mat using Guid(55a725e838814ea44b1bd9d5a940b21b) Importer(815301076,1909f56bfc062723c751e8b465ee728b) (PreviewImporter) -> (artifact id: '78fc68bade3f3a2ebdbd2660103d3e88') in 0.020392 seconds
+Number of updated asset objects reloaded before import = 0Number of asset objects unloaded after import = 2
+
+========================================================================
+Received Import Request.
+  Time since last request: 2.211456 seconds.
+  path: Assets/Little_GhostLP(FREE)/Material/Devil
+  artifactKey: Guid(22da959a7e1ba6f4689af1814f48ca1a) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Little_GhostLP(FREE)/Material/Devil using Guid(22da959a7e1ba6f4689af1814f48ca1a) Importer(815301076,1909f56bfc062723c751e8b465ee728b) (PreviewImporter) -> (artifact id: 'fb8cb5c95f2eace02c16d045bdd99e68') in 0.000987 seconds
+Number of updated asset objects reloaded before import = 0Number of asset objects unloaded after import = 0
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.017188 seconds.
+  path: Assets/Little_GhostLP(FREE)/Material/Devil/Devil Head.mat
+  artifactKey: Guid(400f166a104594d4b975b7fa4ab7b3ba) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Little_GhostLP(FREE)/Material/Devil/Devil Head.mat using Guid(400f166a104594d4b975b7fa4ab7b3ba) Importer(815301076,1909f56bfc062723c751e8b465ee728b) (PreviewImporter) -> (artifact id: '9df0d2d6190f8d363da1d76a116927b4') in 0.0099092 seconds
+Number of updated asset objects reloaded before import = 0Number of asset objects unloaded after import = 1
+
+========================================================================
+Received Import Request.
+  Time since last request: 7.567748 seconds.
+  path: Assets/Little_GhostLP(FREE)/Material/Devil/Devil Head.mat
+  artifactKey: Guid(400f166a104594d4b975b7fa4ab7b3ba) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Little_GhostLP(FREE)/Material/Devil/Devil Head.mat using Guid(400f166a104594d4b975b7fa4ab7b3ba) Importer(815301076,1909f56bfc062723c751e8b465ee728b) (PreviewImporter) -> (artifact id: '8405fb21c6198bd5a9b8d860204781a0') in 0.0157999 seconds
+Number of updated asset objects reloaded before import = 0Number of asset objects unloaded after import = 1
+
+========================================================================
+Received Import Request.
+  Time since last request: 1.428705 seconds.
+  path: Assets/Little_GhostLP(FREE)/Material/Axe
+  artifactKey: Guid(1dbb379968f2af14d922f47289955e0d) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Little_GhostLP(FREE)/Material/Axe using Guid(1dbb379968f2af14d922f47289955e0d) Importer(815301076,1909f56bfc062723c751e8b465ee728b) (PreviewImporter) -> (artifact id: '09b2a3b4cd96a446c08cbe93e09a60a9') in 0.000985 seconds
+Number of updated asset objects reloaded before import = 0Number of asset objects unloaded after import = 0
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.006216 seconds.
+  path: Assets/Little_GhostLP(FREE)/Material/Axe/Axe.mat
+  artifactKey: Guid(a3700889b6176874ba23b59b6cd3d206) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Little_GhostLP(FREE)/Material/Axe/Axe.mat using Guid(a3700889b6176874ba23b59b6cd3d206) Importer(815301076,1909f56bfc062723c751e8b465ee728b) (PreviewImporter) -> (artifact id: '4088016516bda3d8bc89dbab1d585aab') in 0.0126871 seconds
+Number of updated asset objects reloaded before import = 0Number of asset objects unloaded after import = 2
+
+========================================================================
+Received Import Request.
+  Time since last request: 3.997620 seconds.
+  path: Assets/Little_GhostLP(FREE)/Texture/Axe.png
+  artifactKey: Guid(3c3d1bbcf3b256f4dad25b08de76d89d) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Little_GhostLP(FREE)/Texture/Axe.png using Guid(3c3d1bbcf3b256f4dad25b08de76d89d) Importer(815301076,1909f56bfc062723c751e8b465ee728b) (PreviewImporter) -> (artifact id: '2fe94fb2c271e94947e305c041207ca0') in 0.0193486 seconds
+Number of updated asset objects reloaded before import = 0Number of asset objects unloaded after import = 2
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.389892 seconds.
+  path: Assets/Little_GhostLP(FREE)/Material/Axe/Axe.mat
+  artifactKey: Guid(a3700889b6176874ba23b59b6cd3d206) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Little_GhostLP(FREE)/Material/Axe/Axe.mat using Guid(a3700889b6176874ba23b59b6cd3d206) Importer(815301076,1909f56bfc062723c751e8b465ee728b) (PreviewImporter) -> (artifact id: 'cd48eefe98480f01c3673dfd58650bb4') in 0.0213973 seconds
+Number of updated asset objects reloaded before import = 0Number of asset objects unloaded after import = 2
+
+========================================================================
+Received Import Request.
+  Time since last request: 17.690753 seconds.
+  path: Assets/Little_GhostLP(FREE)/Prefabs/LittleGhost_LP (1).prefab
+  artifactKey: Guid(f6ab88624626d1249bd73bcb4a1c7d59) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Little_GhostLP(FREE)/Prefabs/LittleGhost_LP (1).prefab using Guid(f6ab88624626d1249bd73bcb4a1c7d59) Importer(815301076,1909f56bfc062723c751e8b465ee728b) (PreviewImporter) -> (artifact id: '48625762a07725ecae095eacfe7f2ecd') in 0.2003026 seconds
+Number of updated asset objects reloaded before import = 0Number of asset objects unloaded after import = 60
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000033 seconds.
+  path: Assets/Little_GhostLP(FREE)/Prefabs/LittleGhost_LP (7).prefab
+  artifactKey: Guid(95aa05ec0ea0a884ab92946b57d2c7b4) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Little_GhostLP(FREE)/Prefabs/LittleGhost_LP (7).prefab using Guid(95aa05ec0ea0a884ab92946b57d2c7b4) Importer(815301076,1909f56bfc062723c751e8b465ee728b) (PreviewImporter) -> (artifact id: 'b80cb182fc6b0868472e73e5dc6a8485') in 0.0251046 seconds
+Number of updated asset objects reloaded before import = 0Number of asset objects unloaded after import = 60
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000041 seconds.
+  path: Assets/Little_GhostLP(FREE)/Prefabs/LittleGhost_LP (6).prefab
+  artifactKey: Guid(4b5b08dfd84e3c342b10a4e2ed977d48) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Little_GhostLP(FREE)/Prefabs/LittleGhost_LP (6).prefab using Guid(4b5b08dfd84e3c342b10a4e2ed977d48) Importer(815301076,1909f56bfc062723c751e8b465ee728b) (PreviewImporter) -> (artifact id: '113c0e69d8f33e92be5b65001f82cbfd') in 0.0276618 seconds
+Number of updated asset objects reloaded before import = 0Number of asset objects unloaded after import = 64
+
+========================================================================
+Received Prepare
+Assembly reference Packages/com.unity.cinemachine/Editor/Samples/ExposeHDRPInternals/HDRP-Editor-ref.asmref has no target assembly definition
+Assembly reference Packages/com.unity.cinemachine/Editor/Samples/ExposeHDRPInternals/HDRP-Editor-ref.asmref has no target assembly definition
+Begin MonoManager ReloadAssembly
+Symbol file LoadedFromMemory is not a mono symbol file
+- Loaded All Assemblies, in  0.798 seconds
+Assembly reference Packages/com.unity.cinemachine/Editor/Samples/ExposeHDRPInternals/HDRP-Editor-ref.asmref has no target assembly definition
+'Packages/com.unity.cinemachine/Editor/Obsolete/CinemachineVirtualCameraBaseEditor.cs' contains partial class of Unity.Object, exactly 1 of the partial classes needs to be in a file with the same filename. This is to know the one that can be referenced from ie. GameObjects
+'Packages/com.unity.cinemachine/Editor/Editors/CinemachineVirtualCameraBaseEditor.cs' contains partial class of Unity.Object, exactly 1 of the partial classes needs to be in a file with the same filename. This is to know the one that can be referenced from ie. GameObjects
+Refreshing native plugins compatible for Editor in 2.98 ms, found 4 plugins.
+Native extension for WindowsStandalone target not found
+Native extension for WebGL target not found
+Assembly reference Packages/com.unity.cinemachine/Editor/Samples/ExposeHDRPInternals/HDRP-Editor-ref.asmref has no target assembly definition
+[Package Manager] Failed to launch server process. Reason: Unity was launched with the -noUpm command-line argument
+[Package Manager] Unable to send message (not connected to server process).
+[Package Manager] Cannot connect to Unity Package Manager local server
+Mono: successfully reloaded assembly
+- Finished resetting the current domain, in  0.939 seconds
+Domain Reload Profiling: 1738ms
+	BeginReloadAssembly (221ms)
+		ExecutionOrderSort (0ms)
+		DisableScriptedObjects (23ms)
+		BackupInstance (0ms)
+		ReleaseScriptingObjects (0ms)
+		CreateAndSetChildDomain (81ms)
+	RebuildCommonClasses (30ms)
+	RebuildNativeTypeToScriptingClass (11ms)
+	initialDomainReloadingComplete (27ms)
+	LoadAllAssembliesAndSetupDomain (510ms)
+		LoadAssemblies (348ms)
+		RebuildTransferFunctionScriptingTraits (0ms)
+		AnalyzeDomain (235ms)
+			TypeCache.Refresh (5ms)
+				TypeCache.ScanAssembly (0ms)
+			BuildScriptInfoCaches (212ms)
+			ResolveRequiredComponents (11ms)
+	FinalizeReload (940ms)
+		ReleaseScriptCaches (0ms)
+		RebuildScriptCaches (0ms)
+		SetupLoadedEditorAssemblies (734ms)
+			LogAssemblyErrors (0ms)
+			InitializePlatformSupportModulesInManaged (3ms)
+			SetLoadedEditorAssemblies (8ms)
+			BeforeProcessingInitializeOnLoad (130ms)
+			ProcessInitializeOnLoadAttributes (516ms)
+			ProcessInitializeOnLoadMethodAttributes (72ms)
+			AfterProcessingInitializeOnLoad (5ms)
+			EditorAssembliesLoaded (1ms)
+		ExecutionOrderSort2 (0ms)
+		AwakeInstancesAfterBackupRestoration (15ms)
+Refreshing native plugins compatible for Editor in 2.46 ms, found 4 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Unloading 36 Unused Serialized files (Serialized files now loaded: 0)
+Unloading 7650 unused Assets / (6.6 MB). Loaded Objects now: 8394.
+Memory consumption went from 176.9 MB to 170.3 MB.
+Total: 12.684300 ms (FindLiveObjects: 1.040000 ms CreateObjectMapping: 1.115700 ms MarkObjects: 6.357100 ms  DeleteObjects: 4.169200 ms)
+
+Prepare: number of updated asset objects reloaded= 0
+Editor requested this worker to shutdown with reason: Scaling down because of idle timeout
+AssetImportWorker is now disconnected from the server
+Process exiting
+Exiting without the bug reporter. Application will terminate with return code 0
