@@ -1,2 +1,29 @@
-# ConuHacksGunGameDisney
-Development of a 1v1 Western-themed shooter game where players can customize their experience by selecting a Disney-inspired theme and choosing characters that align with the selected theme. The game integrates fast-paced dueling mechanics, immersive environments, and unique character abilities to enhance gameplay and strategy.
+# The makings of Feline the Wild West
+### Created by Marly Saliba, Nour Hoballah, Dolena Nyugen
+
+## Inspiration
+The inspiration for "Feline the Wild West" was mostly a love for cats as well as the theme of this years Conuhacks which is the west. Also, every member of this team loves games like call of duty therefore we decided to take on the challenge of merging all of these together.
+
+## What it does
+The game we developed places the user as a cat character by the name of Shadowclaw and makes him defeat the evil Sir MeowsAlot to save the wild west in a 1v1 gun battle. They both keep battling until one loses his life.
+
+## How we built it
+To make this dream a reality we had to use the platform Unity to be able to have a background layout as well as a character that we could use to move and create obstacles as well as put the whole game together. Then, using c# as a coding language we were able to give each piece of the game it's own special function.
+
+## Challenges we ran into
+Many challenges were met during the development of the video game such as cartwheeling characters, flying characters, immortal characters and many more. it being our first time using Unity, we had to learn on the go and that made us have a lot more problem than we had excepted.
+
+## Accomplishments that we're proud of
+We are first and foremost proud of the challenge we have accomplished, even though it is our first time ever attempting something of the sort. Also, we are proud of everything we have learned over the past 24 hours as a team and as individual players. However, above all we are proud of having decided to even take on the project.
+
+## What we learned
+We learned many new things about programming that we did not know about before entering the competition like Unity, c#, Image motion integration and more. We also learned that you shouldn't be afraid of taking on a new challenge just because you lack experience. Experience is something you acquire by doing things like this, it will never be handed out for free.
+
+## What's next for Feline the wild west
+Hopefully we will find a way to make our characters mortal and stop them from levitating in the middle of the game. However, after that who knows maybe the day will come when the Wild West's Felines finally meet the dreaded Canines.
+
+## Built With
+- C#
+- Unity
+- 
+
