@@ -3,6 +3,9 @@
 #### IMPORTANT! 
 The Contribution Board for this project does not represent the true commitment of each team member. Since the entire project had to be done on a single computer only one commit was done at the end of the project resulting in false contribution data.
 
+![image](https://github.com/user-attachments/assets/094eb8da-08b6-4193-b1b5-d16c35a483d9)
+
+
 ## Inspiration
 The inspiration for "Feline the Wild West" was mostly a love for cats as well as the theme of this year's Conuhacks which is the West. Also, every member of this team loves games like Call of Duty therefore we decided to take on the challenge of merging all of these together.
 
