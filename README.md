@@ -1,5 +1,5 @@
 # The makings of Feline the Wild West
-### Created by Marly Saliba, Nour Hoballah, Dolena Nguyen!
+### Created by Marly Saliba, Nour Hoballah, Dalena Nguyen!
 #### IMPORTANT! 
 The Contribution Board for this project does not represent the true commitment of each team member. Since the entire project had to be done on a single computer only one commit was done at the end of the project resulting in false contribution data.
 
