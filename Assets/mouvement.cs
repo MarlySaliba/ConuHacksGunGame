@@ -15,20 +15,11 @@ public class mouvement : MonoBehaviour
 
     private Transform firePoint;
     void start() { firePoint = GameObject.FindGameObjectWithTag("firepoint").transform; }
-    //private bool m_FacingRight = true;
-
-    //private void Flip()
-    //{
-    //    m_FacingRight = !m_FacingRight;
-    //    transform.Rotate(0f, 180f, 0f);
-    //}
-    // Start is called once before the first execution of Update after the MonoBehaviour is created
     void Start()
     {
 
     }
 
-    // Update is called once per frame
     void Update()
     {
         moveInput.x = Input.GetAxis("Horizontal");
@@ -73,7 +64,6 @@ public class mouvement : MonoBehaviour
         else if (moveInput.x > 0)
         {
             theSR.flipX = true;
-            //transform.Rotate(0, 180, 0);
             
            
         }

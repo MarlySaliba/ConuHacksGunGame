@@ -15,13 +15,11 @@ public class DetectScript : MonoBehaviour
     public float timeToShoot = 1.3f;
     float originalTime;
 
-    // Start is called once before the first execution of Update after the MonoBehaviour is created
     void Start()
     {
         originalTime = timeToShoot;
     }
 
-    // Update is called once per frame
     void Update()
     {
         if (detected)
